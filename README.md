@@ -6,14 +6,6 @@ A Power BI custom visual that summarises whether the data behind a KPI is trustw
 
 A KPI can mislead even when it renders cleanly. Stale refreshes, missing values, undetected duplicates, broken validation rules, and outliers all silently erode trust. TrustScore puts a single, explainable signal in front of report consumers so they know whether to act on the number.
 
-## Screenshots
-
-> _Placeholder — drop screenshots into `assets/screenshots/` before publishing._
->
-> - `trustscore-overview.png`
-> - `trustscore-breakdown.png`
-> - `trustscore-compact.png`
-
 ## Installation
 
 1. Download the packaged `.pbiviz` from the **Releases** page.
