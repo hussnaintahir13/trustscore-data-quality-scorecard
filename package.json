@@ -1,0 +1,33 @@
+{
+  "name": "trustscore-data-quality-scorecard",
+  "version": "1.0.0",
+  "description": "TrustScore — a Power BI custom visual that surfaces a 0–100 data quality score with status badge, gauge, and a breakdown across completeness, duplicates, freshness, outliers and validation rules.",
+  "keywords": [
+    "powerbi",
+    "powerbi-visuals",
+    "data-quality",
+    "scorecard",
+    "trustscore"
+  ],
+  "scripts": {
+    "pbiviz": "pbiviz",
+    "start": "pbiviz start",
+    "package": "pbiviz package",
+    "lint": "tsc --noEmit"
+  },
+  "author": {
+    "name": "Syed Hussnain",
+    "email": "maintainers@example.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "powerbi-visuals-api": "~5.11.0",
+    "powerbi-visuals-utils-formattingmodel": "6.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "less": "^4.2.0",
+    "powerbi-visuals-tools": "~5.5.1",
+    "typescript": "^5.4.0"
+  }
+}
