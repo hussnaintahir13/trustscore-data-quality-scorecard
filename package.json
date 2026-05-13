@@ -16,8 +16,9 @@
     "lint": "tsc --noEmit"
   },
   "author": {
-    "name": "Syed Hussnain",
-    "email": "maintainers@example.com"
+    "name": "Syed Hussnain Tahir Sherazi",
+    "email": "Contact@syedhussnain.com",
+    "url": "https://www.syedhussnain.com"
   },
   "license": "MIT",
   "dependencies": {

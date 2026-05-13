@@ -1,6 +1,6 @@
 # TrustScore Data Quality Scorecard
 
-**Author:** Syed Hussnain
+**Author:** [Syed Hussnain Tahir Sherazi](https://www.syedhussnain.com)
 **License:** MIT
 **Category:** KPI / data quality / governance
 
@@ -28,3 +28,11 @@ A KPI can render cleanly while the underlying data is silently broken: stale ref
 
 ## Privacy & security
 No network calls. No third-party JS. `privileges` array is empty. The visual is read-only and never writes back to any data source.
+
+## Author
+**Syed Hussnain Tahir Sherazi** — Power BI / Microsoft Fabric developer building the TrustScore Data Quality Scorecard and other Power BI custom visuals.
+
+- Website: [www.syedhussnain.com](https://www.syedhussnain.com)
+- Email: [Contact@syedhussnain.com](mailto:Contact@syedhussnain.com)
+- LinkedIn: [linkedin.com/in/hussnainsherazi](https://www.linkedin.com/in/hussnainsherazi)
+- GitHub: [github.com/hussnaintahir13](https://github.com/hussnaintahir13)
