@@ -33,6 +33,6 @@ No network calls. No third-party JS. `privileges` array is empty. The visual is 
 **Syed Hussnain Tahir Sherazi** — Power BI / Microsoft Fabric developer building the TrustScore Data Quality Scorecard and other Power BI custom visuals.
 
 - Website: [www.syedhussnain.com](https://www.syedhussnain.com)
-- Email: [Contact@syedhussnain.com](mailto:Contact@syedhussnain.com)
-- LinkedIn: [linkedin.com/in/hussnainsherazi](https://www.linkedin.com/in/hussnainsherazi)
+- Email: [contact@syedhussnain.co.uk](mailto:contact@syedhussnain.co.uk)
+- LinkedIn: [linkedin.com/in/hussnainsherazi](https://uk.linkedin.com/in/hussnainsherazi)
 - GitHub: [github.com/hussnaintahir13](https://github.com/hussnaintahir13)

@@ -112,6 +112,11 @@ See [docs/APP_SOURCE_CHECKLIST.md](docs/APP_SOURCE_CHECKLIST.md).
 
 Please be respectful in issues and PRs. By contributing you agree to license your work under the MIT licence.
 
+## Author
+
+Syed Hussnain Tahir Sherazi — Associate Data Engineer, Leicester, UK.
+[www.syedhussnain.com](https://www.syedhussnain.com) · [LinkedIn](https://uk.linkedin.com/in/hussnainsherazi) · contact@syedhussnain.co.uk
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
